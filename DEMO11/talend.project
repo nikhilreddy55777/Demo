@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_c3tB0G5lEeivXdSIU4QeuA" label="Demo11" description="" language="java" technicalLabel="DEMO11" creationDate="2018-06-12T10:11:48.000-0700" author="_c3tB0W5lEeivXdSIU4QeuA" productVersion="Talend Big Data Platform-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nikhilreddy55777/Demo.git&quot;,&quot;login&quot;:&quot;nikhilreddy557@yahoo.com&quot;,&quot;passwd&quot;:&quot;VDxN7wwpjOigvDjx85E66w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <technicalStatus xmi:id="_c5Zq8G5lEeivXdSIU4QeuA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_c5Zq8W5lEeivXdSIU4QeuA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_c5Zq8m5lEeivXdSIU4QeuA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_c5WAkG5lEeivXdSIU4QeuA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_c5WAkW5lEeivXdSIU4QeuA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_c5WAkm5lEeivXdSIU4QeuA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_c41DMG5lEeivXdSIU4QeuA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_c41DMW5lEeivXdSIU4QeuA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_c41DMm5lEeivXdSIU4QeuA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
