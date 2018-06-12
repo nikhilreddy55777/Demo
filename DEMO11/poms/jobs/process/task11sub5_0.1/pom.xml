@@ -8,7 +8,7 @@
     <version>7.0.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.demo11.job</groupId>
+  <groupId>org.example</groupId>
   <artifactId>task11sub5</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <name>DEMO11 task11sub5-0.1.0-SNAPSHOT (0.1,Job Designs)</name>
