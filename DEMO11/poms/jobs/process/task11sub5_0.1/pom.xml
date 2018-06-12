@@ -10,8 +10,8 @@
   </parent>
   <groupId>org.example.demo11.job</groupId>
   <artifactId>task11sub5</artifactId>
-  <version>0.1.0</version>
-  <name>DEMO11 task11sub5-0.1.0 (0.1,Job Designs)</name>
+  <version>0.1.0-SNAPSHOT</version>
+  <name>DEMO11 task11sub5-0.1.0-SNAPSHOT (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
